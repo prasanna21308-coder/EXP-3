@@ -40,11 +40,25 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
+
+<img width="525" height="421" alt="image" src="https://github.com/user-attachments/assets/b6e8c9b9-13aa-46aa-b9b6-130f1f1af1c1" />
+
+<img width="823" height="540" alt="BEEE ex3 exnor" src="https://github.com/user-attachments/assets/667fc416-095c-4062-aaf2-f84c887c15c9" />
+
 Tabulation:1
+
+<img width="528" height="312" alt="Screenshot 2026-03-23 200750" src="https://github.com/user-attachments/assets/26e565b1-ff4b-46fb-a463-bd37ce320e0e" />
 	
 Cross connection: CIRCUIT DIAGRAM:
 
+<img width="506" height="396" alt="image" src="https://github.com/user-attachments/assets/b5d41590-0ec8-4304-87e1-39bd3a144978" />
+
+<img width="671" height="414" alt="BEEE ex3 exor" src="https://github.com/user-attachments/assets/02267658-c20f-480b-ab72-0496a7d0bb8c" />
+
 Tabulation:2
 
+<img width="563" height="290" alt="Screenshot 2026-03-23 200840" src="https://github.com/user-attachments/assets/e1d1bbad-cb90-4831-b688-062249bac510" />
+
 RESULT:
+
 Thus the staircase wiring is connected and tested.
